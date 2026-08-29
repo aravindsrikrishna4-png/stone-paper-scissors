@@ -1,13 +1,13 @@
 include <iostream>
 #include <cstdlib>
 #include <ctime>
-uing namespace std;
+using namespace std;
 int main()
 {
 srand(time(0)); 
  
 int userchoice,computerchoice;
-int userscore = 0,computerScore = 0;
+int userscore = 0,computerscore = 0;
 int choice;
 cout<<"===== STONE PAPER SCISSORS ====="<<endl;
 while (true)
