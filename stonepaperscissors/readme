@@ -1,0 +1,9 @@
+How it works:
+Run the program first and choose an option from the menu:
+1 for Stone
+2 for Paper
+3 for Scissors
+4 to Exit
+The computer randomly picks its move. The winner of the round is decided using the rules,i.e.,stone beats scissors,scissors beats paper,paper beats stone.
+Scores are updated and displayed after every round.
+Choose 4 anytime to exit and see the final score and overall result.
